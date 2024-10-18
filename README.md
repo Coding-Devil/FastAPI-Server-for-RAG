@@ -3,7 +3,7 @@
 ### 🧠 a lightweight FastAPI server designed for a Retrieval Augmented Generation (RAG) system
 
 ---
- 
+
 ## 📝 **Overview**
 
 This project implements a **lightweight FastAPI server** designed to support a **Retrieval Augmented Generation (RAG)** system. The server processes various document formats, generates embeddings using **Hugging Face's sentence-transformers**, and provides efficient querying via **ChromaDB** for vector-based retrieval.
